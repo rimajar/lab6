@@ -2,8 +2,7 @@
 
 #include <stdio.h> 
 #include <math.h> 
-#include <string.h> 
-#include "calculate.h"
+
 
 float
 Calculate(float Numeral, char Operation[4])
